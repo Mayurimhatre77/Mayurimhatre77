@@ -8,6 +8,7 @@
 <h2>🔭 Data Visualization Projects:</h2>
 
 - [Amazon Prime](https://public.tableau.com/shared/9HBG3Z7P6?:display_count=n&:origin=viz_share_link)
+- [Netflix](https://public.tableau.com/views/NetflixDashboard_17233949975210/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 <h2>📺 Popular YouTube Videos</h2>
