@@ -7,7 +7,7 @@
 
 <h2>🔭 Data Visualization Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Amazon Prime](https://public.tableau.com/shared/9HBG3Z7P6?:display_count=n&:origin=viz_share_link)
 
 
 <h2>📺 Popular YouTube Videos</h2>
