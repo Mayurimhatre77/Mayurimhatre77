@@ -9,6 +9,7 @@
 
 - [Amazon Prime](https://public.tableau.com/shared/9HBG3Z7P6?:display_count=n&:origin=viz_share_link)
 - [Netflix](https://public.tableau.com/views/NetflixDashboard_17233949975210/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Covid-19 in India](https://public.tableau.com/views/Covid19Dashboard_17241222512670/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 <h2>📺 Popular YouTube Videos</h2>
