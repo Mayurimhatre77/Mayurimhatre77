@@ -1,15 +1,16 @@
 <h1>Hi, I'm Mayuri! <br/><a href="https://github.com/Mayurimhatre77">Techie</a>, <a href="https://www.linkedin.com/in/mayurimhatre">Data Enthusiast</a>, <a href="https://github.com/Mayurimhatre77">Insight Analyst</a> </h1>
 
-<h2>👨‍💻 Python Projects:</h2>
-
-- [Praciting DS & Algos in Python](https://github.com/Mayurimhatre77?tab=repositories)
-
-<br>
 <h2>🔭 Data Visualization Projects:</h2>
 
+- [Healthcare Dashboard](https://public.tableau.com/views/HealthcareDashboard_17243896898360/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Amazon Prime](https://public.tableau.com/shared/9HBG3Z7P6?:display_count=n&:origin=viz_share_link)
 - [Netflix](https://public.tableau.com/views/NetflixDashboard_17233949975210/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Covid-19 in India](https://public.tableau.com/views/Covid19Dashboard_17241222512670/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<br>
+<h2>👨‍💻 Python Projects:</h2>
+
+- [Praciting DS & Algos in Python](https://github.com/Mayurimhatre77?tab=repositories)
 
 <br>
 <h2>🌱 Artful Storyteller</h2>
