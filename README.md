@@ -10,7 +10,19 @@
 <br>
 <h2>👨‍💻 Python Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/Mayurimhatre77?tab=repositories)
+- [Practicing DS & Algos in Python](https://github.com/Mayurimhatre77?tab=repositories)
+
+
+<br>
+<h2>📊 Research Paper Published:</h2>
+
+- [Dimensionality reduction for sentiment analysis using pre-processing techniques](https://ieeexplore.ieee.org/document/8282676)
+    <ul style="list-style-type:square;">
+        <li>Conducted an in-depth analysis of various text pre-processing techniques for sentiment analysis, including Handling Expressive Lengthening, Emoticons Handling, HTML Tags Removal, Slangs Handling, Punctuations Handling, Stopwords Removal, Stemming, and Lemmatization, using Python and libraries like NLTK, scikit-learn, BeautifulSoup, pytypo, re (Regular Expressions), WordNet and bs4.</li>
+        <li>Developed a robust sentiment analysis model using Python's Random Forest Classifier, evaluating the impact of different combinations of pre-processing techniques on accuracy with the "Bag of Words Meets Bags of Popcorn" dataset from Kaggle, employing 10-fold cross-validation for reliable performance assessment.</li>
+        <li>Demonstrated that applying Python-based pre-processing techniques significantly enhances sentiment analysis accuracy compared to using unprocessed data, providing valuable insights for improving text analysis in business contexts.</li>
+    </ul>
+
 
 <br>
 <h2>🌱 Artful Storyteller</h2>
